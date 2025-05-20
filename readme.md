@@ -5,3 +5,5 @@
 - EDA
 - visual representation
 - Conclusion of the analysis
+  **Graph**
+  ![alt text](image.png)
